@@ -1,0 +1,6 @@
+@VoetbalTournamentAPI_HostAddress = http://localhost:5115
+
+GET {{VoetbalTournamentAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

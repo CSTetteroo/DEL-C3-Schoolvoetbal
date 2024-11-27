@@ -7,8 +7,16 @@
       "RelativeMoniker": "D:0:0:{979B06B6-482E-4463-ACDF-1798CB36A174}|VoetbalAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{979B06B6-482E-4463-ACDF-1798CB36A174}|VoetbalAPI.csproj|c:\\laragon\\www\\del-c3-schoolvoetbal\\c#backend\\voetbalapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{979B06B6-482E-4463-ACDF-1798CB36A174}|VoetbalAPI.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{979B06B6-482E-4463-ACDF-1798CB36A174}|VoetbalAPI.csproj|c:\\laragon\\www\\del-c3-schoolvoetbal\\c#backend\\voetbalapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{979B06B6-482E-4463-ACDF-1798CB36A174}|VoetbalAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979B06B6-482E-4463-ACDF-1798CB36A174}|VoetbalAPI.csproj|c:\\laragon\\www\\del-c3-schoolvoetbal\\c#backend\\voetbalapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{979B06B6-482E-4463-ACDF-1798CB36A174}|VoetbalAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979B06B6-482E-4463-ACDF-1798CB36A174}|VoetbalAPI.csproj|c:\\laragon\\www\\del-c3-schoolvoetbal\\c#backend\\voetbalapi\\voetbalapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{979B06B6-482E-4463-ACDF-1798CB36A174}|VoetbalAPI.csproj|solutionrelative:voetbalapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +26,51 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\laragon\\www\\DEL-C3-Schoolvoetbal\\C#Backend\\VoetbalAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\laragon\\www\\DEL-C3-Schoolvoetbal\\C#Backend\\VoetbalAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-20T08:04:00.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\laragon\\www\\DEL-C3-Schoolvoetbal\\C#Backend\\VoetbalAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\laragon\\www\\DEL-C3-Schoolvoetbal\\C#Backend\\VoetbalAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-20T08:03:54.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VoetbalAPI.csproj",
+              "DocumentMoniker": "C:\\laragon\\www\\DEL-C3-Schoolvoetbal\\C#Backend\\VoetbalAPI\\VoetbalAPI.csproj",
+              "RelativeDocumentMoniker": "VoetbalAPI.csproj",
+              "ToolTip": "C:\\laragon\\www\\DEL-C3-Schoolvoetbal\\C#Backend\\VoetbalAPI\\VoetbalAPI.csproj",
+              "RelativeToolTip": "VoetbalAPI.csproj",
+              "ViewState": "AgIAAAwAAABA2CqozcAQwBAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-20T08:00:25.105Z"
             },
             {
               "$type": "Document",
@@ -32,22 +80,9 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\laragon\\www\\DEL-C3-Schoolvoetbal\\C#Backend\\VoetbalAPI\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T10:04:01.677Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\laragon\\www\\DEL-C3-Schoolvoetbal\\C#Backend\\VoetbalAPI\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "WeatherForecast.cs",
-              "ToolTip": "C:\\laragon\\www\\DEL-C3-Schoolvoetbal\\C#Backend\\VoetbalAPI\\WeatherForecast.cs",
-              "RelativeToolTip": "WeatherForecast.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T10:03:56.673Z",
               "EditorCaption": ""
             }
           ]

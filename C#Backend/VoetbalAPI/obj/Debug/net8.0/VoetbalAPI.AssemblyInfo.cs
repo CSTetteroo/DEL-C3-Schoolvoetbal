@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VoetbalAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11d70904e309beaa9c135a0e3cadd6de6a9debfb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+07617bbec6f9ec814eb38b7773dd9fe61895f3bf")]
 [assembly: System.Reflection.AssemblyProductAttribute("VoetbalAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VoetbalAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

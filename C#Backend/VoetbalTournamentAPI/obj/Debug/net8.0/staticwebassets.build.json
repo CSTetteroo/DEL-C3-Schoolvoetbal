@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "VQn/XLMZtPoC5S1RND6X1on0BTUcwWxW4cAa2Gabqkk=",
+  "Source": "VoetbalTournamentAPI",
+  "BasePath": "_content/VoetbalTournamentAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
