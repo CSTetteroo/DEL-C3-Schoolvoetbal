@@ -2,6 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using VoetbalTournamentAPI.Data;
 
@@ -10,9 +11,11 @@ using VoetbalTournamentAPI.Data;
 namespace VoetbalTournamentAPI.Migrations
 {
     [DbContext(typeof(VoetbalTournamentDataContext))]
-    partial class VoetbalTrounamentDataContextModelSnapshot : ModelSnapshot
+    [Migration("20241127095810_Users")]
+    partial class Users
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

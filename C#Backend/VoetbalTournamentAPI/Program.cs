@@ -1,3 +1,6 @@
+using Microsoft.AspNetCore.Identity;
+using VoetbalTournamentAPI.Data;
+using VoetbalTournamentAPI.Model;
 
 namespace VoetbalTournamentAPI
 {
@@ -8,11 +11,14 @@ namespace VoetbalTournamentAPI
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
-
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
+
+            // Register the PasswordHasher service
+            builder.Services.AddSingleton<IPasswordHasher<User>, PasswordHasher<User>>();
+            builder.Services.AddDbContext<VoetbalTournamentDataContext>();
 
             var app = builder.Build();
 
@@ -26,7 +32,6 @@ namespace VoetbalTournamentAPI
             app.UseHttpsRedirection();
 
             app.UseAuthorization();
-
 
             app.MapControllers();
 
